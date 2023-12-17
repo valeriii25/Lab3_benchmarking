@@ -1,0 +1,10 @@
+{
+  "tests_count" : 10,
+  "path_to_file" : "C:\\Users\\lapsh\\Desktop\\Database\\nyc_yellow_big.csv",
+  "postgres_password" : "12345",
+  "pandas" : true,
+  "psycopg2" : true,
+  "sqlite" : true,
+  "duckdb" : true,
+  "sqlalchemy" : true
+}
